@@ -3,9 +3,9 @@
 ---
 ### About me:
 
-- I'm a golang developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+- I'm a golang developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 - 19 y.o.
-- Student @ NSTU
+- Student NSTU
   
 ## Tech Stack 💻
 ![Golang](https://img.shields.io/badge/-Golang-000?style=for-the-badge&logo=go)
