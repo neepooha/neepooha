@@ -6,7 +6,7 @@ I'm a beginner web developer. My path to IT began with Pascal and Python. Thanks
 - I Love Golang <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 - 19 y.o.
 - Student NSTU
- [![Gmail](https://img.shields.io/badge/-my%20gmail-000?style=for-the-badge&logo=gmail)](mailto:denlesovski@gmail.com)
+- [![Gmail](https://img.shields.io/badge/-my%20gmail-000?style=for-the-badge&logo=gmail)](mailto:denlesovski@gmail.com)
   
 ## Tech Stack 💻
 ![Golang](https://img.shields.io/badge/-Golang-000?style=for-the-badge&logo=go)
