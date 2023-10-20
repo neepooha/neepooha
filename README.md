@@ -1,8 +1,7 @@
 <h1 align="center"> Hi 👋🏻, I'm Neepooha </br></h1>
 
----
-### About me:
 
+### About me:
 - I'm a golang developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 - 19 y.o.
 - Student NSTU
@@ -23,5 +22,5 @@
 <p align="center">
  <a href="https://www.buymeacoffee.com/neepooha" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=neepooha&label=Profile%20Views&color=5&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=neepooha&label=Profile%20Views&color=1&icon=4&pretty=true" />
 </a></p>
