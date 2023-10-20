@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ2aGhyMjR2c2c3c2ZzcmxwZWZkOW5kb2s0cDJyeGd5YnIzMTVsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mpe8OTKZNDkpzxRfvf/giphy.gif" width="30"/>, I'm Neepooha </h1>
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ2aGhyMjR2c2c3c2ZzcmxwZWZkOW5kb2s0cDJyeGd5YnIzMTVsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mpe8OTKZNDkpzxRfvf/giphy.gif" width="130"/>, I'm Neepooha </h1>
 
 
 ### About me:
