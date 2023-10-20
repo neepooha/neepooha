@@ -20,7 +20,6 @@
 
 ---
 <p align="center">
-  
   <img src="https://img.shields.io/badge/leetcode-000?style=for-the-badge&logo=leetcode"></br>
   <img src="https://leetcard.jacoblin.cool/Neepooha?theme=dark&font=Source%20Serif%204" alt="leetcode"></br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ2aGhyMjR2c2c3c2ZzcmxwZWZkOW5kb2s0cDJyeGd5YnIzMTVsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mpe8OTKZNDkpzxRfvf/giphy.gif" width="600"></br>
