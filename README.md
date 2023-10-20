@@ -2,7 +2,7 @@
 
 
 ### About me:
-- I'm a golang developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+- I'm a beginner web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 - 19 y.o.
 - Student NSTU
   
