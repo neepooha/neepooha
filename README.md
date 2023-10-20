@@ -7,7 +7,7 @@ I'm a beginner web developer. My path to IT began with Pascal and Python. Thanks
 - 🎓 Student NSTU
 - [![Gmail](https://img.shields.io/badge/-my%20gmail-000?style=for-the-badge&logo=gmail)](mailto:denlesovski@gmail.com)
   
-## Tech Stack 💻
+## Tech Stack
 ![Golang](https://img.shields.io/badge/-Golang-000?style=for-the-badge&logo=go)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000?style=for-the-badge&logo=C%2B%2B)
 ![Docker](https://img.shields.io/badge/-docker-000?style=for-the-badge&logo=docker)
