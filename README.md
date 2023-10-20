@@ -12,7 +12,6 @@
 ![Docker](https://img.shields.io/badge/-docker-000?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ## Design/Visual Tools
 ![Adobe Photoshop](https://img.shields.io/badge/-photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop)
