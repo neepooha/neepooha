@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I'm Neepooha </br>
+<h1 align="center"> Hi 👋🏻, I'm Neepooha </br></h1>
 
 ---
 ### About me:
