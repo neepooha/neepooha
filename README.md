@@ -1,6 +1,6 @@
-<h1 align="center"> Hi 👋🏻, I'm Neepooha </br> 
----
+<h1 align="center"> Hi 👋🏻, I'm Neepooha </br>
 
+---
 ### About me:
 
 - I'm a golang developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
