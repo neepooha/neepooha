@@ -2,7 +2,7 @@
 
 ### About me:
 I'm a beginner web developer. My path to IT began with Pascal and Python. Thanks to them, I learned the basics of programming. Later, at university, computer science and C++ became my priorities. At the moment, my main language is Golang, and my goal is to get a job in a large company to learn how development works from the inside and gain a ton of experience.
-- ❤️ I Love Golang <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ2aGhyMjR2c2c3c2ZzcmxwZWZkOW5kb2s0cDJyeGd5YnIzMTVsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mpe8OTKZNDkpzxRfvf/giphy.gif" width="130"/>
+- ❤️ I Love Golang
 - 🔞 19 y.o.
 - 🎓 Student NSTU
 - [![Gmail](https://img.shields.io/badge/-my%20gmail-000?style=for-the-badge&logo=gmail)](mailto:denlesovski@gmail.com)
@@ -24,7 +24,7 @@ I'm a beginner web developer. My path to IT began with Pascal and Python. Thanks
   <a href="https://leetcode.com/Neepooha/" target="_blank"> <img src="https://img.shields.io/badge/leetcode-000?style=for-the-badge&logo=leetcode"></a>
   <a href="https://leetcode.com/Neepooha/" target="_blank"> <img src="https://img.shields.io/badge/%E2%86%93-000?style=for-the-badge"></br></a>
   <a href="https://leetcode.com/Neepooha/" target="_blank"> <img src="https://leetcard.jacoblin.cool/Neepooha?theme=dark&font=Anek%20Kannada&ext=heatmap" alt="leetcode"></br></a>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ2aGhyMjR2c2c3c2ZzcmxwZWZkOW5kb2s0cDJyeGd5YnIzMTVsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mpe8OTKZNDkpzxRfvf/giphy.gif" width="600"></br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ2aGhyMjR2c2c3c2ZzcmxwZWZkOW5kb2s0cDJyeGd5YnIzMTVsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mpe8OTKZNDkpzxRfvf/giphy.gif" width="500"></br>
   <a href="https://www.buymeacoffee.com/neepooha" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-1e3a8a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" style="vertical-align:center"/></a>
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=neepooha&label=Profile%20Views&color=1&icon=4&pretty=true" /></a>
   </p>
