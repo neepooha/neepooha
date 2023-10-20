@@ -2,8 +2,8 @@
 
 
 ### About me:
-I'm a beginner web developer. My path to IT began with Pascal and Python. Thanks to them, I learned the basics of programming. Later, at university, computer science and C++ became my priorities. At the moment, my main language is Golang, and my goal is to get a job in a large company to learn how development works from the inside and gain a ton of experience.
-- ❤️ I Love Golang <img align="middle" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ2aGhyMjR2c2c3c2ZzcmxwZWZkOW5kb2s0cDJyeGd5YnIzMTVsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mpe8OTKZNDkpzxRfvf/giphy.gif" width="250"/>
+I'm a beginner web developer. My path to IT began with Pascal and Python. Thanks to them, I learned the basics of programming. Later, at university, computer science and C++ became my priorities. At the moment, my main language is Golang, and my goal is to get a job in a large company to learn how development works from the inside and gain a ton of experience. <img align="middle" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ2aGhyMjR2c2c3c2ZzcmxwZWZkOW5kb2s0cDJyeGd5YnIzMTVsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mpe8OTKZNDkpzxRfvf/giphy.gif" width="250"/>
+- ❤️ I Love Golang 
 - 🔞 19 y.o.
 - 🎓 Student NSTU
 - [![Gmail](https://img.shields.io/badge/-my%20gmail-000?style=for-the-badge&logo=gmail)](mailto:denlesovski@gmail.com)
