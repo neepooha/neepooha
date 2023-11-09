@@ -14,9 +14,10 @@ I'm a beginner web developer. My path to IT began with Pascal and Python. Thanks
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 
-// ## Design/Visual Tools
-// ![Adobe Photoshop](https://img.shields.io/badge/-photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop)
-// ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
+<!-- ## Design/Visual Tools
+![Adobe Photoshop](https://img.shields.io/badge/-photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
+-->
 
 ---
 <p align="center">
