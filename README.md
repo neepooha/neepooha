@@ -30,9 +30,9 @@ I'm a beginner web developer. My path to IT began with Pascal and Python. Thanks
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=neepooha&label=Profile%20Views&color=1&icon=4&pretty=true" /></a>
   </p>
   
-## Пройденные курсы:
-
-| Курсы                                                           |
+<h1 align="center"> Hi, I'm Neepooha 
+| Пройденные курсы                                                |
 | ----------------------------------------------------------------|
 | Тренировки по алгоритмам 4.0(Яндекс)                            |
 | code-basics.com: golang                                         |
+</h1>
