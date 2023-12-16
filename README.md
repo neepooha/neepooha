@@ -29,3 +29,10 @@ I'm a beginner web developer. My path to IT began with Pascal and Python. Thanks
   <a href="https://www.buymeacoffee.com/neepooha" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-1e3a8a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" style="vertical-align:center"/></a>
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=neepooha&label=Profile%20Views&color=1&icon=4&pretty=true" /></a>
   </p>
+  
+## Пройденные курсы:
+
+| Курсы                                                           |
+| ----------------------------------------------------------------|
+| Тренировки по алгоритмам 4.0(Яндекс)                            |
+| code-basics.com: golang                                         |
