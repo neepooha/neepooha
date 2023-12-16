@@ -6,13 +6,20 @@ I'm a beginner web developer. My path to IT began with Pascal and Python. Thanks
 - 🔞 19 y.o.
 - 🎓 Student NSTU
 - [![Gmail](https://img.shields.io/badge/-my%20gmail-000?style=for-the-badge&logo=gmail)](mailto:denlesovski@gmail.com)
-  
+
+| Пройденные курсы                                                |
+| ----------------------------------------------------------------|
+| Тренировки по алгоритмам 4.0(Яндекс)                            |
+| code-basics.com: golang                                         |
+
+
 ## Tech Stack
 ![Golang](https://img.shields.io/badge/-Golang-000?style=for-the-badge&logo=go)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000?style=for-the-badge&logo=C%2B%2B)
 ![Docker](https://img.shields.io/badge/-docker-000?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+
 
 <!-- ## Design/Visual Tools
 ![Adobe Photoshop](https://img.shields.io/badge/-photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop)
@@ -29,10 +36,3 @@ I'm a beginner web developer. My path to IT began with Pascal and Python. Thanks
   <a href="https://www.buymeacoffee.com/neepooha" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-1e3a8a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" style="vertical-align:center"/></a>
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=neepooha&label=Profile%20Views&color=1&icon=4&pretty=true" /></a>
   </p>
-  
-<h1 align="center"> Hi, I'm Neepooha 
-| Пройденные курсы                                                |
-| ----------------------------------------------------------------|
-| Тренировки по алгоритмам 4.0(Яндекс)                            |
-| code-basics.com: golang                                         |
-</h1>
