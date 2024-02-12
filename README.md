@@ -7,7 +7,7 @@ I'm a beginner web developer. My path to IT began with Pascal and Python. Thanks
 - 🎓 Student NSTU
 - [![Gmail](https://img.shields.io/badge/-my%20gmail-000?style=for-the-badge&logo=gmail)](mailto:neepooha.1991@gmail.com)
 
-<
+<!--
 | completed courses                                               |
 | ----------------------------------------------------------------|
 | algorithm 4.0 training(Yandex)                                  |
