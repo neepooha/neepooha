@@ -15,12 +15,12 @@ I'm a backend developer. My path to IT began with Pascal and Python. Thanks to t
 -->
 
 ## Tech Stack
-![Golang](https://img.shields.io/badge/-Golang-000?style=for-the-badge&logo=go)
-![C++](https://img.shields.io/badge/-C%2B%2B-000?style=for-the-badge&logo=C%2B%2B)
+![Golang](https://img.shields.io/badge/-golang-000?style=for-the-badge&logo=go)
+![C++](https://img.shields.io/badge/-c%2B%2B-000?style=for-the-badge&logo=C%2B%2B)
 ![Docker](https://img.shields.io/badge/-docker-000?style=for-the-badge&logo=docker)
-![SQL](https://img.shields.io/badge/-postgresq-000?style=for-the-badge&logo=postgresql)
-![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![SQL](https://img.shields.io/badge/-sql-000?style=for-the-badge&logo=postgresql)
+![Postman](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=Postman)
+![Git](https://img.shields.io/badge/-git-000?style=for-the-badge&logo=git)
 
 
 <!-- ## Design/Visual Tools
