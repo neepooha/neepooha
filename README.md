@@ -7,8 +7,8 @@ I'm a backend developer. My path to IT began with Pascal and Python. Thanks to t
 - 🔞 19 y.o.
 - 🎓 Student NSTU
 ### My contacts:
-[![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:neepooha.1991@gmail.com)
 [![Telegram](https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF)](https://t.me/lessovskii)
+[![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:neepooha.1991@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedIn-000?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF)](https://www.linkedin.com/in/neepooha/)
 [![Resume](https://img.shields.io/badge/resume-000?style=for-the-badge&logo=awesomelists&logoColor=%23FFFFFF)](https://neepooha.github.io/aboutme/resume.pdf)
 
