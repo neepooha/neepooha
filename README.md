@@ -6,7 +6,7 @@ I'm a backend developer. My path to IT began with Pascal and Python. Thanks to t
 - 🔞 19 y.o.
 - 🎓 Student NSTU
 
-[![Gmail](https://img.shields.io/badge/-my%20gmail-000?style=for-the-badge&logo=gmail)](mailto:neepooha.1991@gmail.com)
+  [![Gmail](https://img.shields.io/badge/-my%20gmail-000?style=for-the-badge&logo=gmail)](mailto:neepooha.1991@gmail.com)
 
 <!--
 | completed courses                                               |
