@@ -2,10 +2,11 @@
 
 ### About me:
 I'm a backend developer. My path to IT began with Pascal and Python. Thanks to them, I learned the basics of programming. Later, at university, computer science and C++ became my priorities. At the moment, my main language is Golang, and my goal is to get a job in a large company to learn how development works from the inside and gain a ton of experience.
+- 🌍 I'm based in Novosibirsk
 - ❤️ I Love Golang
 - 🔞 19 y.o.
 - 🎓 Student NSTU
-
+# My contacts:
 [![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:neepooha.1991@gmail.com)
 [![Telegram](https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF)](https://t.me/lessovskii)
 [![LinkedIn](https://img.shields.io/badge/linkedIn-000?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF)](https://www.linkedin.com/in/neepooha/)
