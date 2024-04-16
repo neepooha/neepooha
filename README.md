@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Neepooha </h1>
+<h1 align="center"> Hi, I'm Lessovskii </h1>
 
 ### About me:
 I'm a backend developer. My path to IT began with Pascal and Python. Thanks to them, I learned the basics of programming. Later, at university, computer science and C++ became my priorities. At the moment, my main language is Golang, and my goal is to get a job in a large company to learn how development works from the inside and gain a ton of experience.
