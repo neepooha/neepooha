@@ -2,9 +2,9 @@
 
 ### About me:
 I'm a backend developer. My path to IT began with Pascal and Python. Thanks to them, I learned the basics of programming. Later, at university, computer science and C++ became my priorities. At the moment, my main language is Golang, and my goal is to get a job in a large company to learn how development works from the inside and gain a ton of experience.
-- ❤️ I Love Golang
-- 🔞 19 y.o.
-- 🎓 Student NSTU
+- I Love Golang
+- 19 y.o.
+- Student NSTU
 ### My contacts:
 [![Telegram](https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF)](https://t.me/lessovskii)
 [![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:lessovskii@gmail.com)
