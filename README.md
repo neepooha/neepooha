@@ -1,11 +1,11 @@
 <!-- <h1 align="center"> Hi, I'm Lessovskii </h1> -->
 
-### About me:
+## About me:
 I'm a backend developer. My path to IT began with Pascal and Python. Thanks to them, I learned the basics of programming. Later, at university, computer science and C++ became my priorities. At the moment, my main language is Golang, and my goal is to get a job in a large company to learn how development works from the inside and gain a ton of experience.
 - I Love Golang
 - 19 y.o.
 - Student NSTU
-### My contacts:
+## My contacts:
 [![Telegram](https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF)](https://t.me/lessovskii)
 [![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:lessovskii@gmail.com)
 [![Resume](https://img.shields.io/badge/resume-000?style=for-the-badge&logo=awesomelists&logoColor=%23FFFFFF)](https://neepooha.github.io/aboutme/resume.pdf)
@@ -19,7 +19,7 @@ I'm a backend developer. My path to IT began with Pascal and Python. Thanks to t
 | code-basics.com: golang                                         |
 -->
 
-### Tech Stack
+## Tech Stack
 ![Golang](https://img.shields.io/badge/golang-000?style=for-the-badge&logo=go)
 ![C++](https://img.shields.io/badge/c%2B%2B-000?style=for-the-badge&logo=C%2B%2B)
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
