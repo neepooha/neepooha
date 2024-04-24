@@ -2,9 +2,9 @@
 
 ## About me:
 I'm a backend developer. My path to IT began with Pascal and Python. Thanks to them, I learned the basics of programming. Later, at university, computer science and C++ became my priorities. At the moment, my main language is Golang, and my goal is to get a job in a large company to learn how development works from the inside and gain a ton of experience.
-- I Love Golang
-- 19 y.o.
-- Student NSTU
+- ❤️ I Love Golang
+- 🔞 19 y.o.
+- 📚 Student NSTU
 ## My contacts:
 [![Telegram](https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF)](https://t.me/lessovskii)
 [![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:lessovskii@gmail.com)
@@ -36,7 +36,7 @@ I'm a backend developer. My path to IT began with Pascal and Python. Thanks to t
 ---
 <p align="center">
   <!-- <a href="https://leetcode.com/Neepooha/" target="_blank"> <img src="https://img.shields.io/badge/%E2%86%93-000?style=for-the-badge"></a> -->
-  <a href="https://leetcode.com/Neepooha/" target="_blank"> <img src="https://img.shields.io/badge/leetcode-000?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://leetcode.com/Neepooha/" target="_blank"> <img src="https://img.shields.io/badge/leetcode-000?style=for-the-badge&logo=leetcode"></br></a>
   <!-- <a href="https://leetcode.com/Neepooha/" target="_blank"> <img src="https://img.shields.io/badge/%E2%86%93-000?style=for-the-badge"></br></a> -->
   <a href="https://leetcode.com/Neepooha/" target="_blank"> <img src="https://leetcard.jacoblin.cool/Neepooha?theme=dark&font=Anek%20Kannada&ext=heatmap" alt="leetcode"></br></a>
 <!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ2aGhyMjR2c2c3c2ZzcmxwZWZkOW5kb2s0cDJyeGd5YnIzMTVsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mpe8OTKZNDkpzxRfvf/giphy.gif" width="500"></br> -->
