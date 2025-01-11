@@ -11,6 +11,3 @@ I'm a backend developer. My path to IT began with Pascal and Python. Thanks to t
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
 ![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
-
----
-[![GitHub Streak](https://streak-stats.demolab.com/?user=neepooha)](https://git.io/streak-stats)
